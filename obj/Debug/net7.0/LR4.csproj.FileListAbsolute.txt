@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Univer\Web\LR4\bin\Debug\net7.0\LR4.exe
+\\Mac\Home\Documents\Univer\Web\LR4\bin\Debug\net7.0\LR4.deps.json
+\\Mac\Home\Documents\Univer\Web\LR4\bin\Debug\net7.0\LR4.runtimeconfig.json
+\\Mac\Home\Documents\Univer\Web\LR4\bin\Debug\net7.0\LR4.dll
+\\Mac\Home\Documents\Univer\Web\LR4\bin\Debug\net7.0\LR4.pdb
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.AssemblyInfo.cs
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.dll
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\refint\LR4.dll
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.pdb
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\LR4.genruntimeconfig.cache
+\\Mac\Home\Documents\Univer\Web\LR4\obj\Debug\net7.0\ref\LR4.dll
